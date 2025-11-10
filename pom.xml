@@ -94,30 +94,30 @@
 
         <!-- Plugin Versions -->
         <plugin.clean>3.1.0</plugin.clean>
-        <plugin.compiler>3.14.0</plugin.compiler>
+        <plugin.compiler>3.14.1</plugin.compiler>
         <plugin.cyclonedx>2.9.1</plugin.cyclonedx>
-        <plugin.dependency>3.8.1</plugin.dependency>
-        <plugin.enforcer>3.5.0</plugin.enforcer>
-        <plugin.jacoco>0.8.12</plugin.jacoco>
+        <plugin.dependency>3.9.0</plugin.dependency>
+        <plugin.enforcer>3.6.2</plugin.enforcer>
+        <plugin.jacoco>0.8.14</plugin.jacoco>
         <plugin.jar>3.4.2</plugin.jar>
-        <plugin.javadoc>3.11.2</plugin.javadoc>
-        <plugin.release>3.1.1</plugin.release>
+        <plugin.javadoc>3.12.0</plugin.javadoc>
+        <plugin.release>3.2.0</plugin.release>
         <plugin.shade>3.2.4</plugin.shade>
         <plugin.source>3.3.1</plugin.source>
-        <plugin.versions>2.18.0</plugin.versions>
+        <plugin.versions>2.19.1</plugin.versions>
 
         <!-- Dependency Versions -->
         <dependency.annotations2>3.0.0</dependency.annotations2>
-        <dependency.caffeine>3.2.0</dependency.caffeine>
-        <dependency.commons-io>2.18.0</dependency.commons-io>
-        <dependency.commons-lang>3.17.0</dependency.commons-lang>
-        <dependency.jackson>2.18.3</dependency.jackson>
+        <dependency.caffeine>3.2.3</dependency.caffeine>
+        <dependency.commons-io>2.21.0</dependency.commons-io>
+        <dependency.commons-lang>3.19.0</dependency.commons-lang>
+        <dependency.jackson>2.20</dependency.jackson>
         <dependency.jaxrs3>4.0.0</dependency.jaxrs3>
         <dependency.jaxrs31>4.0.0</dependency.jaxrs31>
         <dependency.jersey3>3.1.10</dependency.jersey3>
-        <dependency.jjwt>0.12.6</dependency.jjwt>
-        <dependency.jetty12>12.0.17</dependency.jetty12>
-        <dependency.mockito>5.16.1</dependency.mockito>
+        <dependency.jjwt>0.13.0</dependency.jjwt>
+        <dependency.jetty12>12.1.3</dependency.jetty12>
+        <dependency.mockito>5.20.0</dependency.mockito>
         <dependency.servlet3>4.0.1</dependency.servlet3>
         <dependency.servlet5>6.1.0</dependency.servlet5>
         <dependency.slf4j>2.0.17</dependency.slf4j>
@@ -335,7 +335,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-gpg-plugin</artifactId>
-                <version>3.2.7</version>
+                <version>3.2.8</version>
                 <executions>
                     <execution>
                         <goals>
