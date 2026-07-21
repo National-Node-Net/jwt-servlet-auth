@@ -41,7 +41,7 @@
     <description>Provides a set of libraries for doing JSON Web Token (JWT) based authentication across different Java
         Servlet runtimes
     </description>
-    <url>https://github.com/National-Digital-Twin/jwt-servlet-auth</url>
+    <url>https://github.com/National-Node-Net/jwt-servlet-auth</url>
 
     <developers>
         <developer>
@@ -65,14 +65,14 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/National-Digital-Twin/jwt-servlet-auth</url>
+            <url>https://maven.pkg.github.com/National-Node-Net/jwt-servlet-auth</url>
         </repository>
     </distributionManagement>
 
     <scm>
-        <connection>scm:git:https://github.com/National-Digital-Twin/jwt-servlet-auth</connection>
-        <developerConnection>scm:git:ssh://git@github.com/National-Digital-Twin/jwt-servlet-auth</developerConnection>
-        <url>https://github.com/National-Digital-Twin/jwt-servlet-auth</url>
+        <connection>scm:git:https://github.com/National-Node-Net/jwt-servlet-auth</connection>
+        <developerConnection>scm:git:ssh://git@github.com/National-Node-Net/jwt-servlet-auth</developerConnection>
+        <url>https://github.com/National-Node-Net/jwt-servlet-auth</url>
         <tag>HEAD</tag>
     </scm>
 
