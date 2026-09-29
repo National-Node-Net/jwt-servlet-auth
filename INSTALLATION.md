@@ -431,7 +431,7 @@ Here we configure the AWS verifier to use keys from the `eu-west-2` region, find
 [ApacheLicense]: https://www.apache.org/licenses/LICENSE-2.0
 [Jackson]: https://github.com/FasterXML/jackson
 
-© Crown Copyright 2025. This work has been developed by the National Digital Twin Programme and is legally attributed to the Department for Business and Trade (UK) as the governing entity.  
+© Crown Copyright 2026. This work has been developed by the National Digital Twin Programme and is legally attributed to the UK's Department for Business, Innovation, Science and Trade (BIST) as the governing entity.  
 Licensed under the Open Government Licence v3.0.  
 
 You can view the full license at:  
